@@ -86,4 +86,4 @@ Dockerfile_bak
 cribr-deployment*.yaml
 cribr-ingress-https.yaml
 tmp-pod.yaml
-.env.production.example
+.env.production.master
