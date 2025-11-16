@@ -55,7 +55,7 @@ resource "aws_codebuild_project" "cribr_build" {
 
     environment_variable {
       name  = "DEPLOYMENT_YAML"
-      value = "cribr-cicd/deployment.yaml"
+      value = "cicd-stack/deployment.yaml"
       type  = "PLAINTEXT"
     }
 
@@ -173,7 +173,7 @@ resource "aws_codebuild_project" "cribr_build" {
 
   source {
     type      = "CODEPIPELINE"
-    buildspec = "cribr-cicd/buildspec.yml"
+    buildspec = "cicd-stack/buildspec.yml"
   }
 
   logs_config {
