@@ -1,4 +1,4 @@
-#  /cribr-cicd\main.tf
+#  cicd-stack\main.tf
 
 #############################################
 # Terraform Configuration

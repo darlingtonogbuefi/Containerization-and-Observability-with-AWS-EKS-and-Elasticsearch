@@ -1,4 +1,4 @@
-# cribr-cicd\secrets.tf
+# cicd-stack\secrets.tf
 
 #############################################
 # GitHub OAuth Token

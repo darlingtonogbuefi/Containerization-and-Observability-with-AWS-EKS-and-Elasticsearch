@@ -1,4 +1,4 @@
-# cribr-cicd\cribr-k8s-secrets.tf
+# cicd-stack\cribr-k8s-secrets.tf
 
 #############################################
 # Kubernetes Secret from Terraform-managed AWS Secrets

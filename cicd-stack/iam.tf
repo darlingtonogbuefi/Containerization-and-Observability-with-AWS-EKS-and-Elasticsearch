@@ -1,4 +1,4 @@
-# cribr-cicd\iam.tf
+# cicd-stack\iam.tf
 
 #############################################
 # IAM Roles for CI/CD

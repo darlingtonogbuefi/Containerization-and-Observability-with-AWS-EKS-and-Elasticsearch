@@ -1,4 +1,4 @@
-# cribr-cicd\codepipeline.tf
+# cicd-stack\codepipeline.tf
 
 #############################################
 # S3 Bucket for CodePipeline Artifacts

@@ -1,4 +1,4 @@
-# cribr-cicd\codebuild.tf
+# cicd-stack\codebuild.tf
 
 #############################################
 # AWS CodeBuild Project

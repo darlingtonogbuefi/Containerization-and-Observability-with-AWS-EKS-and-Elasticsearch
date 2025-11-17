@@ -1,4 +1,4 @@
-# cribr-cicd\variables.tf
+# cicd-stack\variables.tf
 
 
 #############################################
