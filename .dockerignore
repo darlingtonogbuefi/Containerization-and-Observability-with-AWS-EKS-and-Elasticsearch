@@ -24,7 +24,7 @@ src/**/*.test.*
 coverage/
 
 # Ignore environment and secret files
-.env*.local
+.env.local
 .env
 .env.*
 !.env.production
