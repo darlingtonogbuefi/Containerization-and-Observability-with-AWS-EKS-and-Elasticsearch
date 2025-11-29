@@ -41,19 +41,6 @@ This project includes:
 
 ---
 
-## 📘 Related Articles (Documentation Series)
-
-- **Optimizing Docker Images**  
-  Step-by-step guide to reducing image size from ~1GB → ~70MB  
-
-- **Setting Up Elastic Cloud**  
-  How to create Elasticsearch & Kibana deployments  
-
-- **Setting Up DNS & TLS**  
-  Multi-domain configuration using Route 53 + ACM  
-
----
-
 ## 🧰 Prerequisites
 
 Install the following tools:
